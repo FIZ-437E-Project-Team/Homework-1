@@ -1,6 +1,6 @@
 # Homework-1
 
-This repo includes observing the overfitting change using polynomial regression, taking the sine function as ground truth.
+## This repo includes observing the overfitting change using polynomial regression, taking the sine function as ground truth.
 
 Bu repo sinüs fonksiyonunu ground truth olarak alınarak polinomial regresyon kullanılarak overfitting değişiminin gözlemlenmesini içermektedir.
 
