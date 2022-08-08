@@ -19,6 +19,8 @@ Bu repo sinüs fonksiyonunu ground truth olarak alınarak polinominal regresyon 
 
 ![5](https://user-images.githubusercontent.com/54817369/183484245-e56c6aae-bdc2-4fb6-8f99-1c95dcd89294.JPG)
 
+![6](https://user-images.githubusercontent.com/54817369/183484422-506e91e1-faa5-4abc-93a3-838e878aedca.JPG)
+
 
 Group-8 Members: <br><br>
 -Zeynep Akkoç (<a href="https://github.com/akkocz17" target="_blank">akkocz17</a>) <br>
