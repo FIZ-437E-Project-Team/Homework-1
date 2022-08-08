@@ -1,8 +1,8 @@
 # Homework-1
 
-Bir periyoduluk aralıkta sinüs fonksiyonunu ground truth olarak alacaksınız. (Sin (2 pi x ) + Gaussian (mean 0,  variance 0.05)) . 10. dereceden polinom regresyon ile fit edeceksiniz (random x inputları, 0-1 arasında random generate edip alarak). İlk başta 5 data alacaksınız, 4'ünü train için kullanıp son 1'i test. Sonra 10 (8 train 2 test) sonra 20,50,100,1000). Görmek istediğim şey data arttıkça overfitting olayının nasıl değiştiği (edited)
+This repo includes observing the overfitting change using polynomial regression, taking the sine function as ground truth.
 
-Bu repo sinüs fonksiyonunu ground truth olarak alınarak polinominal regresyon kullanılarak overfitting olayının gözlemlenmesi.
+Bu repo sinüs fonksiyonunu ground truth olarak alınarak polinomial regresyon kullanılarak overfitting değişiminin gözlemlenmesini içermektedir.
 
 
 ![1](https://user-images.githubusercontent.com/54817369/183484052-4bfbc377-9da5-4886-a627-522aa5b48312.JPG)
